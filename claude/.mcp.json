@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flume": {
+      "type": "http",
+      "url": "https://mcp.tryflume.ai/claude/mcp"
+    }
+  }
+}

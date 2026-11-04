@@ -1,0 +1,16 @@
+{
+  "name": "flume-plugins",
+  "owner": {
+    "name": "Flume AI Inc.",
+    "email": "support@tryflume.ai",
+    "url": "https://tryflume.ai"
+  },
+  "description": "Flume's plugin for Claude: source and price tile and vinyl flooring for US projects.",
+  "plugins": [
+    {
+      "name": "flume",
+      "source": "./claude",
+      "description": "Find and price ceramic and porcelain tile and vinyl flooring for US projects with Flume: the flume-search skill and Flume's connector."
+    }
+  ]
+}
