@@ -1,7 +1,7 @@
 # Flume plugins
 
 Flume's plugin for Claude. Flume helps US real estate developers, general contractors and
-subcontractors source tile and vinyl flooring for their projects, with instant quotes to
+subcontractors source tile, flooring and stone for their projects, with instant quotes to
 their ZIP code.
 
 | Folder | What it holds |

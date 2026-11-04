@@ -5,7 +5,7 @@
     "email": "support@tryflume.ai",
     "url": "https://tryflume.ai"
   },
-  "description": "Flume's plugin for Claude: source and price tile and vinyl flooring for US projects.",
+  "description": "Flume's plugin for Claude: source tile, flooring and stone for US projects.",
   "plugins": [
     {
       "name": "flume",
